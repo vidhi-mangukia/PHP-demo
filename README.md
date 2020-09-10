@@ -13,9 +13,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
  
  OR follow gitbash commands
 
-    i>cd C:\\xampp\htdocs\
-
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-advanced.git
+    cd C:\\xampp\htdocs\
 
 4. extract files in C:\\xampp\htdocs\.
 
